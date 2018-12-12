@@ -1,6 +1,6 @@
 # hansardr
 
-The goal of hansardr is to ...
+The goal of hansardr is to make it easier to access Hansard data.
 
 ## Installation
 
